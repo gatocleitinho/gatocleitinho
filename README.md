@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🐈 Cleitinho | Dev & Empreendedor
 
-<!--
-**gatocleitinho/gatocleitinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Um gato multifacetado .
 
-Here are some ideas to get you started:
+Gato laranja, desenvolvedor e empreendedor por conveniência. Programo sistemas, administro negócios e resolvo problemas (alguns criados por mim mesmo). Inteligente, astuto e com uma confiança que nem sempre se justifica. 🧡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Competências
+
+- 💻 JavaScript
+- 🧩 Lógica e POO
+- 🗄️ Bancos de dados
+- 🔌 APIs e Backend
+- 📊 Gestão de negócios
+- 🐟 Degustação profissional de sachês
+- 😴 Sonecas estratégicas e gestão de energia
+- 🐾 Criatividade e caos controlado
